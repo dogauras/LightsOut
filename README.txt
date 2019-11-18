@@ -1,5 +1,4 @@
 Student name: Doga Uras
-Student number: 300062160
 Course code: ITI1121
 Section: C
 
